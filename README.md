@@ -6,6 +6,7 @@
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 # Set Environment
+### Create Conda Environment
 1. 파이썬 가상환경 생성
 ```
 conda create -n SkinSegmentation python=3.6.0
@@ -14,4 +15,25 @@ conda create -n SkinSegmentation python=3.6.0
 2. 가상환경 접속
 ```
 conda activate SkinSegmentation
+```
+### Install Libraries
+3. requirements.txt 다운로드
+```
+wget https://raw.githubusercontent.com/crinex/Skin-Lesion-Segmentation-Streamlit/main/requirements.txt
+```
+
+4. requirements.txt 설치
+```
+pip install -r requirements.txt
+```
+
+### Download Github Repo
+5. Github Repo 다운로드
+```
+
+```
+### Launch the App
+6. App 실행
+```
+streamlit run app.py
 ```
