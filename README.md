@@ -8,5 +8,10 @@
 # Set Environment
 1. 파이썬 가상환경 생성
 ```
-conda create -n 
+conda create -n SkinSegmentation python=3.6.0
+```
+
+2. 가상환경 접속
+```
+conda activate SkinSegmentation
 ```
