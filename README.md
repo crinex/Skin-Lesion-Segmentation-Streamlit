@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Download Github Repo
 5. Github Repo 다운로드
-https://github.com/crinex/Skin-Lesion-Segmentation-Streamlit/archive/main.zip
+Download and unzip contents from https://github.com/crinex/Skin-Lesion-Segmentation-Streamlit/archive/main.zip
 ### Launch the App
 6. App 실행
 ```
